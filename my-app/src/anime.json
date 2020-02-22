@@ -4,100 +4,99 @@
     "name": "Naruto",
     "series": "Naruto",
     "image": "https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Naruto_PNG_Clipart_Picture.png?m=1434276644"
-   
+    ,"picked": false
   },
   {
     "id": 2,
     "name": "Sauske",
     "series": "Naruto",
     "image": "https://img07.deviantart.net/1711/i/2014/223/9/9/sasuke_sitting___lineart_colored_by_dennisstelly-d7up5it.png"
-   
+    ,"picked": false
   },
   {
     "id": 3,
     "name": "Monkey D. Luffy",
     "series": "One Piece",
     "image": "http://orig09.deviantart.net/6bb2/f/2016/033/f/3/f3e33542c557c83c60a1e27eaaaef12f-d9qawa0.png"
-    
+    ,"picked": false
   },
   {
     "id": 4,
     "name": "Zorro",
     "series": "One Piece",
     "image": "http://www.pngmart.com/files/3/One-Piece-Zoro-Transparent-Background.png"
-   
+    ,"picked": false
   },
   {
     "id": 5,
     "name": "Cloud",
     "series": "Final Fantasy 7",
     "image": "https://orig00.deviantart.net/cb2e/f/2016/024/e/2/ddff___ffvii__g_bike_biker_cloud_costume_by_agl89-d9p5u60.png"
-   
+    ,"picked": false
   },
   {
     "id": 6,
     "name": "Tifa",
     "series": "Final Fantasy 7",
     "image": "http://www.solofondos.com/wp-content/uploads/2016/06/Transparent-wallpapers-PS-Independent.png"
-   
+    ,"picked": false
   },
   {
     "id": 7,
     "name": "Doku",
     "series": "My Hero Acadamia",
     "image": "https://vignette.wikia.nocookie.net/multiverse-tournament-fanfiction/images/8/8d/7967feedae6a76b044fc407a1a3026cf.png/revision/latest?cb=20180719170226"
-    
+    ,"picked": false
   },
   {
     "id": 8,
     "name": "All Might",
     "series": "My Hero Acadamia",
     "image": "https://78.media.tumblr.com/04d3d8ea70327cbeb4de08fd87339580/tumblr_ovkmqdAhIa1su6pfeo2_400.png"
-   
+    ,"picked": false
   },
   {
     "id": 9,
     "name": "Goku",
     "series": "Dragon Ball Z",
     "image": "http://www.stickpng.com/assets/thumbs/584e834a6a5ae41a83ddee37.png"
-   
+    ,"picked": false
   },
   {
     "id": 10,
     "name": "Vegeta",
     "series": "Dragon Ball Z",
     "image": "http://www.pngmart.com/files/2/Vegeta-PNG-Image.png"
-   
+    ,"picked": false
   },
   {
     "id": 11,
     "name": "Gon Freecs",
     "series": "Hunter X Hunter",
     "image": "http://static.tumblr.com/22a43101dec8d91c4b6d49861fc8e05d/zeqwo8f/VIqnhkizx/tumblr_static_crxfesuvdv4swso44ck4ko4wo.png"
-  
+    ,"picked": false
   },
   {
     "id": 12,
     "name": "Capt. Levi",
     "series": "Attack on Titan",
     "image": "https://i.pinimg.com/originals/bf/ca/75/bfca75213079dd68000dd5a90518ae31.png"
+    ,"picked": false
   },
   {
     "id": 13,
     "name": "Leodios",
     "series": "Seven Deadly Sins",
     "image": "https://i.pinimg.com/originals/17/55/23/175523d0fe9d125cb6e812bd93a1ecb2.png"
+    ,"picked": false
   },
   {
     "id": 14,
     "name": "Chun Li",
     "series": "Street Fighter",
     "image": "https://78.media.tumblr.com/55270e169103c641557b43da27c4936e/tumblr_o5cie5cTGH1qmh1j8o1_500.png"
-  },
-  {
-    "id": 15,
-    "name": "Capt. Levi",
-    "image": "https://i.pinimg.com/originals/bf/ca/75/bfca75213079dd68000dd5a90518ae31.png"
+    ,"picked": false
   }
+ 
    
 ]

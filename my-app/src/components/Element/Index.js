@@ -1,16 +1,23 @@
 import React from "react";
 import "./style.css";
 
-const Element = () => (
+const Element = (props) => (
 
-  <nav className="navbar navbar-light bg-light">
-  <h1 className="navbar-brand mb-0 h1">Anime Clicky Game</h1>
-  <p>Do NOT click the same image twice to increase your score</p>
-  <h3>Score</h3>
-<span>0</span>
   
-</nav>
-)
+    <div className="header">
+      <div className="title">{props.children}
+      <img src ="https://media.giphy.com/media/zhrlcZJsvQWDm/giphy.gif" alt="..."/>
+      </div>
+      <div>Test your memory! Click on each character once and beat the highscore.</div>
+      <div className="scores">
+       <div className ="scoreDiv"> Score: {props.score} Highscore: {props.highscore} </div> 
+      </div>
+    </div>
+  );
+
+  
+
+
 
 export default Element;
 

@@ -12,8 +12,9 @@
 
 
 .card:hover {
- background: rgba(49, 207, 141, 0.609);
 
+ border: 25px solid rgb(251, 255, 0);
+  border-radius: 25px;
 
 }
 
@@ -23,7 +24,7 @@
   height: 60%;
   overflow: hidden;
   text-align: center;
-  background:rgba(4, 177, 111, 0);
+  background: linear-gradient(to right, salmon, black)
  
 }
 .card > .img-container > img {
@@ -52,6 +53,18 @@
   cursor: pointer;
 }
 
-.card > .remove:hover {
-  color: #d50000;
+.card-title{
+  font-family: 'Trade Winds' ;
+  font-size: 25px;
+  color:#ffff;
+  
+}
+
+.card-text{
+  color: #fff
+}
+
+.card-body{
+background-color: black;
+
 }

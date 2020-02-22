@@ -1,7 +1,20 @@
 
 
-.bg-light{
-height: 10rem;
+.header{
+height: 15rem;
 background-color: rgba(250, 128, 114, 0.568);
 text-align: center;
+}
+
+.title{
+  font-family: 'Trade Winds';
+  font-size: 40px;
+
+}
+
+.scoreDiv{
+  font-family: 'Trade Winds';
+  font-size: 40px;
+
+
 }

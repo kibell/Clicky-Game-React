@@ -1,40 +1,23 @@
 import React from "react";
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import "./style.css";
 
-const propTypes = {
-  name: PropTypes.string.isRequired,
-  src: PropTypes.string.isRequired,
- 
-}
 
-const animeCard = ({
-  name,
-  image,
-  series
- 
-}) => (
-  <React.Fragment>
-    <div className="card">
-      <div className="img-container">
-        <img alt={name} src={image} />  
-              
-      </div> 
-      <div className="content">
-        <ul>
-          <li>
-            <strong>Name:</strong> {name}
-          </li>
-          <li>
-            <strong>Series:</strong> {series}
-          </li>
-          </ul>
-    </div>
-    </div>
-    </ React.Fragment>
+
+const AnimeCard = props => (
+  
+
+
+<div className="card"  onClick={() => props.clickCount(props.id)}>
+<div className="img-container">
+  <img src={props.image} className="card-img-top" alt="..." />
+  </div>
+  <div className="card-body">
+<h5 className="card-title">Name: {props.name}</h5>
+<p className="card-text">Series: {props.series}</p>
     
+  </div>
+</div>
 );
 
-animeCard.propTypes = propTypes;
-
-export default animeCard;
+export default AnimeCard;
